@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Christ-Church, before the governors of that hospital, on St. Stephen's day by William Fleetwood ...</title>
+            <author>Fleetwood, William, 1656-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39739</idno>
+            <idno type="STC">Wing F1250</idno>
+            <idno type="STC">ESTC R21005</idno>
+            <idno type="EEBO-CITATION">12565803</idno>
+            <idno type="OCLC">ocm 12565803</idno>
+            <idno type="VID">63327</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63327)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 691:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Christ-Church, before the governors of that hospital, on St. Stephen's day by William Fleetwood ...</title>
+                  <author>Fleetwood, William, 1656-1723.</author>
+               </titleStmt>
+               <extent>[5], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Brewster, and Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Galatians VI, 10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:63327:1"/>
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <signed>
+                  <hi>Z. Iſham,</hi> R. P. D. Henrico Epiſc. Lond. à Sacris.</signed>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 7. 1690/1.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:63327:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at <hi>Chriſt-Church,</hi> BEFORE THE GOVERNORS OF THAT HOSPITAL, ON St. <hi>STEPHEN</hi>'s Day.</p>
+            <p>By WILLIAM FLEETWOOD, Rector of St. <hi>Auſtin</hi>'s.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Edw. Brewſter,</hi> and <hi>Ric. Chiſwell;</hi> at the <hi>Crane,</hi> and at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCXCI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63327:2"/>
+            <pb facs="tcp:63327:2"/>
+            <head>To the Right Worſhipful Sir JOHN MOOR, Kt. and Alderman, Preſident of CHRIST'S HOSPITAL, <hi>London;</hi> To the Worſhipful MATTHEW HAWES, Eſq; the Treaſurer; And to the Reſt of the Worſhipful Governors of the ſaid Hoſpital.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>IT was with great readineſs that I undertook the Preaching of this Annual Sermon, and it is not with any great reluctance that I ſubmit to the Printing it: I propoſe the ſame end, and entertain the ſame hopes, of doing good by it now, as I did then; and ſomewhat the more, I promiſe my ſelf, by how much farther it may chance to ſpread. I am loath to ſay, that the Abſence of a great many Perſons whom I looked for, whom Cuſtome, and the obligation of their Truſt ſhould call together on theſe Solemn good Occa<g ref="char:EOLhyphen"/>ſions, might furniſh me with an excuſe for making publick this Diſcourſe, if otherwiſe I wanted one: For if it be neceſſary men ſhould hear theſe things, we muſt purſue Them when they fly from Us, and give them Opportunities out of courſe, when they will not take them in the appointed Seaſons. But I hope there
+<pb facs="tcp:63327:3"/> is no need of any Excuſe for doing this. It is an ex<g ref="char:EOLhyphen"/>cellent Subject I have taken in hand, and greatly con<g ref="char:EOLhyphen"/>cerns us all, but thoſe eſpecially whom God hath bleſs'd with great Eſtates. Whether I have treated it well or no, will beſt be ſeen by its effects; for if that be the beſt Sermon, which brings forth the beſt Fruits, it will depend entirely upon You, whether This ſhall be a Good one or no. Make it, I intreat you, in the name of God, as good as poſſibly you can; and let the Poor and Needy in their ſeveral kinds, both ſee and feel, that you like and love to practice, as well as read, a Sermon upon Charity.</p>
+            <p>The God of mercy and compaſſion keep and bleſs you, for your Care and Faithfulneſs, in the diſcharging that good Truſt repoſed in you, and raiſe you up continually Benefactors, to ſupport the conſtant great Expence that you are at, To the Glory of his Great Name, the Ho<g ref="char:EOLhyphen"/>nour of our Holy Church and Nation, and this great City in eſpecial manner, and to the comfort of his poor and needy Servants.</p>
+            <closer>
+               <salute>I am, Gentlemen,</salute>
+               <signed>Your moſt Affectionate, and moſt Humble Servant, W. FLEET WOOD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:63327:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>GALAT. vi. 10.</hi>
+               </bibl>
+               <q>As we have therefore opportunity, let us do good unto all men, eſpecially unto them who are of the houſe<g ref="char:EOLhyphen"/>hold of Faith.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>AINT <hi>Paul</hi> being about to con<g ref="char:EOLhyphen"/>clude his Letter to the <hi>Galatians,</hi> and having heard ('tis very like<g ref="char:EOLhyphen"/>ly) that the Paſtors of that Church were much neglected, exhorts them to the exerciſe of due and decent liberalitytowards the Miniſtry; in the 6th Verſe, <hi>Let him that is taught in the word, communicate to him that teacheth, in all good things.</hi> A<g ref="char:EOLhyphen"/>greeable to what he ſaith, 1 <hi>Cor. 9. 11. If we have ſown unto you ſpiritual things, is it a great thing if we ſhall reap your carnal things? Do ye not know, That they which miniſter about holy things, live of the things of the Temple; and they which wait at the Altar, are partakers of the things of the Altar?</hi> And, leſt any one ſhould object, that this refers to the <hi>Jewiſh</hi> practice, and con<g ref="char:EOLhyphen"/>cerneth not the Chriſtians; He adds in the 14th Verſe, <hi>Even ſo hath the Lord ordained, that they which preach the Goſpel, ſhould live of the Goſpel.</hi>
+            </p>
+            <p>And foreſeeing what Excuſes and Pretences men would make; ſome, That their Families were to be maintain'd; others, that they had not wherewithal: and all of them ſhifting it off, as well as they could; he proceeds in the 7th, <hi>Be not deceived, God is not mock<g ref="char:EOLhyphen"/>ed</hi>
+               <pb n="2" facs="tcp:63327:4"/> Don't think it ſuch a light and trifling matter, this that I have mentioned: God will not ſuffer himſelf to be deſpiſed and mocked in the Perſons of his Miniſters: <hi>He that deſpiſeth you, deſpiſeth me; and he that deſpiſeth</hi>
+               <note place="margin">Luke 10. 6.</note> 
+               <hi>me, deſpiſeth him that ſent me;</hi> i. e. God, ſaith our Savi<g ref="char:EOLhyphen"/>our. And tho he may for a while defer his Judgments, yet he will one day, in its proper ſeaſon, puniſh the Con<g ref="char:EOLhyphen"/>tempts and Injuries that are pour'd upon his Servants. And leſt they ſhould think that all, that goes beſides their own hands, were loſt, and ſo ſhould be withheld from contributing, as they ſhould, and ought to do; He tells them, That whilſt they were doing good, they were, in a manner, ſowing, what in time would riſe up to a plenteous Harveſt: that it was not thrown away, that they advanc'd to this, or any other other good purpoſe; that they ſerv'd a very Righteous, and a Faithful Maſter, one that would not forget their la<g ref="char:EOLhyphen"/>bour of love, in miniſtring to good Ends, and good People; One that was able, and engag'd by frequent Promiſes, to make them good amends, and fair Re<g ref="char:EOLhyphen"/>turns, for all the expence they ſhould be at, on his ac<g ref="char:EOLhyphen"/>count: and One that on the other hand would take a ſtrict account, how 'twas they ſpent the Stock he made them Stewards of in this life, how they employed the Talents he committed to their truſt: <hi>For what a man ſoweth, that ſhall he alſo reap:</hi> for, <hi>He that ſoweth to the fleſh,</hi> He that conſiders nothing but the neceſſities, con<g ref="char:EOLhyphen"/>veniencies and pleaſures of this life, without regard to, or proviſion for the next; he that ſeeketh his own only, and looks after nothing but himſelf, and mindeth nei<g ref="char:EOLhyphen"/>ther God, nor God's Servants, <hi>ſhall of the fleſh reap cor<g ref="char:EOLhyphen"/>ruption:</hi> the Harveſt ſhall be anſwerable to the Seed ſown, he ſhall heap together what ſhall come at laſt to nothing. Whereas <hi>he that ſoweth to the ſpirit,</hi> he that
+<pb n="3" facs="tcp:63327:4"/> liveth a ſpiritual life, whoſe heart is with God, whoſe thoughts are above, and who mindeth heavenly things, and whoſe Actions conſequently are guided by God's Rule, and accordingly does all the good he can; this Man <hi>ſhall,</hi> from this Spiritual Seed, <hi>reap life everlaſting.</hi> And then by way of encouragement adds, <hi>And let us not be weary of well-doing;</hi> whilſt we are here on Earth, let us be doing all the good we can; let us with chearfulneſs and readineſs of mind be exerciſing our Charity to good people, and ſowing to the Spirit all we can; <hi>for in due time we ſhall reap.</hi> The Apoſtle perſiſts in his Metaphor ſtill, and diſtinguiſhes the Seaſons of ſowing, and of reaping; Now is the time of ſowing whilſt we live, now is the ſeaſon of doing good, whilſt Chriſt in his Goſpel ſhines upon us in this life; and the time of reap<g ref="char:EOLhyphen"/>ing is that to come. <hi>Solomon</hi> ſays, that <hi>he who obſerveth</hi>
+               <note place="margin">Eccl. 11. 4.</note> 
+               <hi>the winds, ſhall never ſow;</hi> and he that will, in like manner, wait till the world goes well with good men, and all things ſucceed to the deſires of the charitable and bounteous perſon, before he will do good, ſhall never do any good at all; for men will always be unthankful, and the World will always return evil for good: and therefore, that we ſhould not be weary of well doing, the Apoſtle propounds the greateſt reward imaginable, but in the other World, and that too upon ſuppoſal of perſeverance to the end,—<hi>if ſo be that we faint not:</hi> for they who perſevere not to the end, are like thoſe fooliſh Husbandmen, who, when they have plowed and ſowed, proceed no farther, take no care to cover it from the Fowls, or from the nipping Froſt, or ſcorchings of the Sun; they have thrown their Seed, and Time and Pains away to bad purpoſe; and ſo do they who begin in ſowing to the Spirit, but faint be<g ref="char:EOLhyphen"/>fore the time of reaping come. In hopes then of this
+<pb n="4" facs="tcp:63327:5"/> glorious Harveſt, <hi>Let us, whilſt we have opportunity, do good to all men, but eſpecially to them who are of the houſe<g ref="char:EOLhyphen"/>hold of faith,</hi> to God's Domeſtic Servants in eſpecial man<g ref="char:EOLhyphen"/>ner. In which words we have theſe things to conſider.</p>
+            <list>
+               <item>I. The Duty exhorted to, of doing good; <hi>Let us do good.</hi>
+               </item>
+               <item>II. The extent of this Duty as to Perſons, <hi>to all men</hi> in general, but eſpecially to God's Domeſtic Ser<g ref="char:EOLhyphen"/>vants, <hi>eſpecially to the houſhold of faith.</hi>
+               </item>
+               <item>III. The time of doing it, <hi>whilſt we have opportu<g ref="char:EOLhyphen"/>nity.</hi>
+               </item>
+               <item>IV. and <hi>Laſtly.</hi> The Reward we are to ſet continu<g ref="char:EOLhyphen"/>ally before our eyes, to the ſtirring us up to the do<g ref="char:EOLhyphen"/>ing good, implied in the word <hi>therefore:</hi> He had ſaid in the foregoing Verſe, <hi>We ſhall reap in due time;</hi> and in the Text, <hi>Therefore, whilſt we have op<g ref="char:EOLhyphen"/>portunity, let us do good to all men.</hi>
+               </item>
+            </list>
+            <p>Of theſe in their order: and,</p>
+            <p>
+               <hi>Iſt,</hi> Of the Duty exhorted to, <hi>Let us do good.</hi>
+               <note place="margin">I.</note>
+            </p>
+            <p>
+               <hi>To go good,</hi> is a phraſe of large and comprehenſive ſignification, and takes in the whole duty of a Chriſtian man, to which we are undoubtedly exhorted in the ge<g ref="char:EOLhyphen"/>neral; but in this particular, to <hi>do good,</hi> ſignifies to <hi>do acts of charity and beneficence.</hi> And indeed it is hardly poſſible to do good with reſpect to ones Neighbour, but that good muſt be a kind of Charity, a relief or ſuc<g ref="char:EOLhyphen"/>cour to them in ſome particular or other, where they wanted it, or elſe it could not deſerve the name of <hi>good,</hi> which muſt have relation to ſome evil or inconvenience they would otherwiſe have ſuffered; and it has ob<g ref="char:EOLhyphen"/>tain'd by cuſtom, that <hi>doing good,</hi> and <hi>being charitable,</hi> are phraſes of the ſame importance. And ſo it is fre<g ref="char:EOLhyphen"/>quently
+<pb n="5" facs="tcp:63327:5"/> in the <hi>New Teſtament, Is it lawful to do good on the Sabbath-day?</hi> ſaith our Saviour, when he was cu<g ref="char:EOLhyphen"/>ring Diſeaſes, <hi>Mark 3. 4. Ye have the poor with you al<g ref="char:EOLhyphen"/>ways; when you will, you may do them good,</hi> Mark 14. 7. <hi>Charge the rich, that they do good,</hi> 1 Tim. 6. 18. <hi>But to do good, and to communicate, forget not,</hi> Heb. 13. 16. And that doing good in this and in all ſenſes, indeed, is the general duty of us all, is not only plain from Rea<g ref="char:EOLhyphen"/>ſon and Scripture, but acknowledged and confeſs'd by all the World.</p>
+            <p>When a man is the Object of this Charity and Good himſelf, then he ſees nothing ſo clear and evident, as that all mankind are by Nature obliged, and urged by Reaſon, and compelled by Scripture, to ſhew that Charity, and do that Good he finds he wants; and he thinks the man injurious to him, that refuſes him what he ſtands in need of, and the other could ſupply with<g ref="char:EOLhyphen"/>out his detriment and loſs. And when the ſcene chan<g ref="char:EOLhyphen"/>ges, and he himſelf becomes the party applied to, he does not plead that he is not oblig'd to relieve the diſtreſ<g ref="char:EOLhyphen"/>ſed Supplicant, but makes excuſes of his inabilities, and ſeems concern'd that he wants the power to anſwer to his will. And whether mens Excuſes are good or bad, whether their wants be true or pretended ones, is no great matter here; they ſerve alike to ſhew, that in Reaſon and Conſcience all men are, and hold them<g ref="char:EOLhyphen"/>ſelves oblig'd to do all the good they can. So that there needs no proving the reaſonableneſs and neceſſity of mens complying with the Exhortation in the Text, <hi>Let us do good.</hi>
+            </p>
+            <p>One might alſo, if there were occaſion, enforce this matter farther, from the conſideration of the pleaſure, and the profit too, that attends the practice of doing Good. There is nothing fills the mind with more con<g ref="char:EOLhyphen"/>tent
+<pb n="6" facs="tcp:63327:6"/> and ſatisfaction, than acting agreeably to natural Light, and to the Rules of Reaſon: There is a ſecret joy, moreover, ſprings up in the heart, at helping of a fellow-creature, in reſcuing Humane Nature from the wrongs and miſchiefs that it ſuffers in our Brother: There is an innocent and pleaſing kind of pride in being ſuperior to the evils that afflict another; and it makes up a triumph in the mind, to free that other from them. There is nothing, in a word, that is more pleaſing in contrivance and deſign, nothing more grateful and de<g ref="char:EOLhyphen"/>lightful in the acting, nothing that leaves a ſweeter o<g ref="char:EOLhyphen"/>dour after it, and raiſes more complacence in the mind, and glad remembrances, than doing good. Neither is the profit any whit inferior to the pleaſure, as might be ſhewn at large from ſeveral Heads, if it were ne<g ref="char:EOLhyphen"/>ceſſary. I rather chuſe to paſs on to the Second thing to be conſidered;</p>
+            <p>II. The extent of this Duty of doing Good, which<note place="margin">II.</note> is <hi>to all men.</hi>
+            </p>
+            <p>The <hi>Galatians</hi> were in danger of <hi>Judaizing</hi> in their Practices as well as Doctrines, <hi>i. e.</hi> of loving none but themſelves and Countrey-men. The <hi>Jews</hi> were grown ſo famous for this churliſh and uncharitable temper, that the Heathens took great notice of it. They would not ſo much as direct a Wandring-Paſſenger into the Right<g ref="char:EOLhyphen"/>way, nor ſhew a Thirſty Traveller a Fountain where he might refreſh his Thirſt, unleſs he were a Jew or Proſelite. And our Saviour ſeems to hint at this, when he tells them who their Neighbour was, <hi>Luke</hi> 10. 30. where he diſcovers this ill-natured practice, by the Prieſts and Levites paſſing by the Stranger, who were both of them Jews, and informs them, they muſt leave off thoſe unneighbourly, ungenerous and narrow No<g ref="char:EOLhyphen"/>tions,
+<pb n="7" facs="tcp:63327:6"/> and muſt do good to all mankind, as it came in their way; and not imagine that the <hi>Jews</hi> alone were the Neighbours intended by God, when he command<g ref="char:EOLhyphen"/>ed them, <hi>to love their neighbours as themſelves.</hi> And it is with this proſpect that St. <hi>Paul</hi> adviſes the <hi>Galatians to do good to all men;</hi> not to ſuffer themſelves to be led away by the example of the cloſe and and narrow<g ref="char:EOLhyphen"/>hearted <hi>Jews;</hi> but to account that all that wanted their aſſiſtance, had a right to it, by virtue of that <hi>title of Want:</hi> That our Saviour had commanded them, not only to do good to thoſe they loved and were beloved by, but to thoſe that curſed, hated, and deſpitefully uſed them; <hi>That they might be the Children of their Fa<g ref="char:EOLhyphen"/>ther which is in heaven, who maketh the ſun to riſe upon the evil and good, and ſendeth rain on the juſt and unjuſt.</hi> Not that they ſhould make no difference and diſtinction in their charitable acts, but give promiſcuouſly, and alike to all; for that cannot be the meaning of the place, which is contradicted in the next words, <hi>but eſpe<g ref="char:EOLhyphen"/>cially to thoſe of the houſhold of faith;</hi> But that no Nati<g ref="char:EOLhyphen"/>on, Party, or Religion, ſhould exclude men from their charity, if their wants had made them objects of it: That all mankind was ſitted for their love and pity, and was to partake of it in time and place convenient, not<g ref="char:EOLhyphen"/>withſtanding his Opinions in Religion, difference of Nation, Practice, or Belief: That People's wants made them Objects of Charity, and not their Agreement in Opinion, or their being of ſuch a Party. And there<g ref="char:EOLhyphen"/>fore he that would be Charitable, muſt relieve the wants of the Neceſſitous, whoever they were, as it came in his way. When therefore he exhorts us to do good to <hi>all,</hi> he only means that no one ſhould be abſolutely ex<g ref="char:EOLhyphen"/>cluded and incapacitated from receiving benefit, when his condition calls for it, and ours will bear the doing
+<pb n="8" facs="tcp:63327:7"/> it. He does not hereby make void the difference and diſtinction that the Laws of Nature, Nations, and Religion, have already made, and ſuch as are certain; nor ſuch as by unfortunate accidents, or unforeſeen, or unavoidable calamities, are become ſuch. The calls of Nature muſt and will be heard firſt, and no Laws can or will ſuperſede them: And the Poſitive Laws of God are to be heard next, and next to them the Laws of the Land; and after theſe are ſatisfied, men are left to govern themſelves by the rules of Prudence and Di<g ref="char:EOLhyphen"/>ſcretion, by the Affections of their Minds, and the Exam<g ref="char:EOLhyphen"/>ples of wiſe and good People. It would be tedious to recount the Particulars that are to be preferred in doing good; I will only give a word or two, to the inſtance St. <hi>Paul</hi> uſes here, <hi>eſpecially to thoſe that are of the houſe<g ref="char:EOLhyphen"/>hold of faith,</hi> becauſe ſome men are not ſo well ſatisfied in this Particular, as in the reſt. But the reaſonableneſs of this will appear, 1. From the practice of all Times and Nations, conforming to each other, and agreeing in this, That the Prieſthood was to be provided for apart, and that it was to be maintained in honour and eſteem: Where-ever there has been People, there has been Religion, ſuch as it was; where<g ref="char:EOLhyphen"/>ever there has been Religion, there have been Perſons conſecrated and ſet apart from Secular Em<g ref="char:EOLhyphen"/>ployments to attend its ſervice; and where-ever it has been ſo, there was a maintenance provided for them at the Publick Charge. <hi>2ly.</hi> It was ſo by God's Appoint<g ref="char:EOLhyphen"/>ment with the <hi>Jews. 3ly.</hi> It was ſo by Chriſt's Appoint<g ref="char:EOLhyphen"/>ment under the Goſpel, as appears from the Paſſage before cited by St. <hi>Paul,</hi> 1 Cor. 9. 14. <hi>Even ſo hath the Lord ordained, That they who preach the Goſpel, ſhould live of the Goſpel.</hi> And tho St. <hi>Paul</hi> himſelf work'd for his Living in a Secular Employment, and ſome perhaps at
+<pb n="9" facs="tcp:63327:7"/> that time with him; yet the caſe was ſingular, and he choſe to do ſo for particular ends and purpoſes he had, and argued ſtrongly in behalf of others proviſion, tho he made no uſe of it himſelf: And there has been no other Inſtance ſince his time, of any Church-man that hath taken up a profeſs'd Employment or Trade to live by, without great Scandal to the Church, and againſt its Rules and Canons. No People, till of late, ever thought it decent to remove from the Shop to the Pul<g ref="char:EOLhyphen"/>pit: None from the days of <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> till ſome years ago, have dar'd to ſay with them, <hi>That all the Congregation were holy, every one of them, and the</hi>
+               <note place="margin">Numb. 16. 3.</note> 
+               <hi>Lord among them,</hi> in the ſenſe of thoſe deplorable Suf<g ref="char:EOLhyphen"/>ferers. <hi>4thly.</hi> The Canons of the Church have not only forbid them taking up any Trade or Calling, but the Laws of the Land have made it highly Penal for them ſo to do, <note n="*" place="margin">21 H. 8. c. 13.</note> even to the taking of a Farm to rent, which yet is one of the moſt innocent, and leaſt ſcandalous ways of living, amongſt us. Laſtly, Tho this ſhould be per<g ref="char:EOLhyphen"/>mitted them, yet the way of Education that is abſolute<g ref="char:EOLhyphen"/>ly neceſſary to the accompliſhing and fitting People for the Miniſtry, does perfectly unqualifie them for any other Employment; and the time that is neceſſarily ſpent in the due diſcharging of that Office, will afford them but little leiſure to attend any other gainful one. Theſe Reaſons, whoſe Heads I have on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y mentioned, with a great many others that eaſily occur to any think<g ref="char:EOLhyphen"/>ing perſon, may be ſufficient to ſhew the reaſonable<g ref="char:EOLhyphen"/>neſs and equity of St. <hi>Pau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s remembring the <hi>Galatians, That in their doing good to all men, they ſhould have a more eſpecial regard to ſuch as are of the houſhold of faith.</hi>
+            </p>
+            <p>But tho the Apoſtle's Argument do neceſſarily re<g ref="char:EOLhyphen"/>quire, That by the <hi>Houſhold of Faith,</hi> be here eſpecially meant the <hi>Paſtors of the Church, and them that teach;</hi> yet
+<pb n="10" facs="tcp:63327:8"/> thoſe terms do alſo comprehend the whole Chriſtian Church, all the body of Believers, as oppoſed to the Prophane Gentiles, and to the Unbelieving <hi>Jews;</hi> and then the words are to be taken in this ſenſe; You are in danger to be taught by the <hi>Jews,</hi> with whom I find you frequently converſe, That all your Charity is to be tied to one Nation, and confined to People of the ſame perſuaſion; but this is too narrow a Notion of the Chriſtian Charity, which is deſigned to enlarge mens hearts, and to extend their love and kindneſs over all the world; the Commands of Chriſt, and conſequently his Apoſtle's Exhortations are, That Chriſtians ſhould do good to <hi>all men;</hi> but that where a preference can be made, without offence to Charity, it be made in behalf of Chriſt's Servants; If there come a competition be<g ref="char:EOLhyphen"/>twixt a <hi>Jew,</hi> a <hi>Gentile,</hi> and a Chriſtian, and the Me<g ref="char:EOLhyphen"/>rits and the Wants be equal, the preference ſhould be made in favour of the Chriſtian, in honour of our Lord, and to the encouragement of his Religion. And the ſame reaſon there is, that in our diſtributions among Chriſtians, reſpect be had to thoſe that are the beſt, that behave themſelves more devoutly towards God, and carefully and honeſtly towards their Neighbours, where the diſtreſs is equal, and the neceſſities alike; for the better people are, the nearer relation they have to God, and the higher Offices they bear, as it were, in God's Houſhold, and conſequently have a better title to the benefits exhorted to in the Text, <hi>To them eſpecially that are of the houſhold of faith.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Here is the Time expreſſed of doing this<note place="margin">III.</note> good, namely, <hi>whilſt we have opportunity. Yet a little while is the light with you, walk while ye have the light, leſt darkneſs come upon you; for he that walketh in darkneſs,
+<pb n="11" facs="tcp:63327:8"/> knoweth not whither he goeth; While ye have light; believe in the light, that ye may be the children of light,</hi> ſaith our Saviour, Joh. 12. 35. <hi>Give glory to the Lord your God,</hi> ſaith the Prophet, <hi>Jer. 13. 16. Before he cauſe darkneſs, and before your feet ſtumble upon the dark mountains, and while ye look for light, he turn it into the ſhadow of death, and make it groſs darkneſs. I muſt work</hi> (ſaith the Lord of Day and Night himſelf, John 9. 4.) <hi>the works of him that ſent me, while it is day, the night cometh when no man can work.</hi> There is a Light, and a Day, and a Time given us all, to work out our Salvation in, to do the Will of God, to perform his Commands, and to per<g ref="char:EOLhyphen"/>fect the buſineſs in, he ſent us hither for. And <hi>behold</hi> (as St. <hi>Paul</hi> ſays, 2 Cor. 6. 2. <hi>now is the accepted time, behold now is the day of ſalvation.</hi> The Light and the Day is <hi>this life,</hi> and the place is <hi>this world,</hi> and it is now, and it is here, that we muſt walk in the ways of God, and do the works of his Commandments. Now while we live, is the time of making matters ſure; now is the only opportunity of doing good, which if we once let ſlip, there is no more recovering it; for <hi>there is no</hi>
+               <note place="margin">Eccl. 9, 10.</note> 
+               <hi>wiſdom in the grave,</hi> ſaith Solomon; and <hi>he that goeth down thither, ſhall come up no more to his houſe, neither ſhall his place know him any more,</hi> ſaith <hi>Job</hi> 7. 9. Since then it is agreed upon at all hands, That it is all our Duties to do all the good we can, as we have opportunity, and that we have no opportunity of doing it, beyond this life. Why is not doing good, the conſequence of theſe two Premiſes? How comes it that men know the neceſſity of doing it, and the benefit of it when done, and the time allotted them to do it in, and yet there is ſo little done? The reaſon, I think, is this, That men promiſe to themſelves ſtill better op<g ref="char:EOLhyphen"/>portunities than the preſent time, they think, affords them: They put the execution of their good Purpoſes
+<pb n="12" facs="tcp:63327:9"/> off from day to day, and imagine that a more conve<g ref="char:EOLhyphen"/>nient ſeaſon will preſent it ſelf; That to morrow and the next day may produce ſome new matter, and change the circumſtances of things to their advantage; and waver about in theſe uncertainties, till Life it ſelf, the great Opportunity, is unexpectedly cut off, and all their thoughts periſh. Whereas if they were as wiſe in this, as in other matters, they would rather argue thus; I find I am obliged by Nature, Reaſon, and Religion, and (God be thanked) by my own inclinations, to do all the good I can; and I know aſſuredly withall, that the good to be done by me, is to be done in this life, while it pleaſes God to continue me in this World; and becauſe I can't poſſibly tell how long I have to live, and what is like to be the number of my days, and that every day produces ſome ſtrange inſtance of the uncertainty of life, and the ſuddenneſs of Death, therefore I muſt put my deſigns of doing good, in execution preſently, for fear I ſhould be prevented; my deſires and reſolutions may prove abortive, if I defer them any longer; there<g ref="char:EOLhyphen"/>fore my <hi>Purpoſes</hi> ſhall be, as ſoon as poſſibly they can, <hi>Performances.</hi> Can any Premiſes be plainer? Can any conſequence be juſter and more reaſonable than this? I muſt do good whilſt I have opportunity, but I can't tell how long this opportunity may laſt, or when it will end; I am only ſure of the Preſent time, that which I have in poſſeſſion is only mine; therefore if I will ſecure my ſelf, I muſt do all the good I can immediately, and whilſt the time is in my hand; the time to come is none of mine; I am not Maſter of the enſuing Year, nor can command the Month that's entring: If I bid the Morning haſten, or the Evening ſlacken its pace, be<g ref="char:EOLhyphen"/>cauſe that I intend to do ſome good, they neither hear nor mind me, but proceed according to appointment,
+<pb n="13" facs="tcp:63327:9"/> and each of them may find me cold and ſenſleſs, and incapable of either doing, or receiving any farther good in this world. And therefore when St. <hi>Paul</hi> adviſes <hi>to do good whilſt we have opportunity,</hi> he adviſes us to do it as ſoon as poſſibly we can, and that we loſe no Oppor<g ref="char:EOLhyphen"/>tunity by delay: It may otherwiſe happen to us, as it did to the poor man that promiſed himſelf ſuch eaſe and pleaſure in the enjoyment of the Fruits and Riches he had treaſur'd up; <hi>Thou fool, this night ſhall thy ſoul be required of thee, and then whoſe ſhall thoſe things be which thou haſt provided?</hi> We frame a great many fine pro<g ref="char:EOLhyphen"/>jects in our heads, contrive abundance of good deſigns, and intend to do the Lord knows how much charity; but the Sentence paſſes out from God upon us, and cuts us off in the midſt of all our Purpoſes, and what is then become of all our good intentions? We are gone to a place where great account will be had of all the good we actually have done, and would have done, if we had had but opportunity, but little or none at all will be had of that which vaniſhed in deſign, and went no farther than the Brain. But that may not be the worſt in ſome caſes, where we ſhall give account for all the Abilities and Opportunities we had of doing good, but over-ſlipt or quite neglected.</p>
+            <p>But <hi>Secondly,</hi> There is an Opportunity of the <hi>Will,</hi> as well as <hi>Time,</hi> which muſt be taken hold of; for tho the Opportunity of Time may be continued to a man, yet the Will and Inclination may be changed: The Will, we know, is very uncertain, and tacks about with every new Variety of Accidents; the Inclinations alter with and without reaſon, as they ſee convenient; and he that promiſes to himſelf at this time, that Six Months hence he will have the Mind and Inclination to do ſuch and ſuch things, underſtands his Temper but a
+<pb n="14" facs="tcp:63327:10"/> little, and is but indifferently acquainted with the in<g ref="char:EOLhyphen"/>conſtancy of humane Nature, and the deceitfulneſs of his own Heart. He may be ſure enough indeed, that if he be then of the ſame Opinion he is now, that he ſhall do the things he now reſolves on; but, for ought he knows, his mind may be then averſe from the purpoſes he now makes; and therefore if they are good, he had beſt fulfil them in their propereſt ſeaſon, which is <hi>Now,</hi> when Time and Inclination meet and are agreed. The Mind (I ſay) is humorous and fantaſtick, toſs'd up and down in great uncertainty, and even the graveſt, ſobereſt and moſt neceſſary Reſolutions, are oftentimes perverted by the moſt inconſiderable and trivial acci<g ref="char:EOLhyphen"/>dents, and therefore we muſt ſtrike in with the Inclina<g ref="char:EOLhyphen"/>tions preſently, and not permit the deſigns of doing good, to cool and grow remiſs.</p>
+            <p>Sometimes it happens that the mind is warm'd with ſome unuſual ſupernatural Heat, and is ardently enfla<g ref="char:EOLhyphen"/>med with the deſire of doing good, and it looks like an Impulſe from Heaven; but if it be not preſently com<g ref="char:EOLhyphen"/>plied with, it returns no more, but vaniſhes. Some<g ref="char:EOLhyphen"/>times a man returns from Church, and the Sacrament, and ſometimes riſes from his Prayers, or from reading or hearing an affectionate Diſcourſe; ſometimes is ſeiz'd upon the ſudden, with a heart full fraught with godly Purpoſes, charg'd with good Intentions, and excellent Reſolves; he finds himſelf ſenſibly affected with what paſſed, ſees the reaſonableneſs and the neceſ<g ref="char:EOLhyphen"/>ſity of changing his courſe, and doing all the good he can, whilſt he continues in this world; but returning to his Buſineſs and Employment, entertaining his Friends and Gueſts, repeating the News, giving Orders to his Servants, reſolving to proſecute one Affair to mor<g ref="char:EOLhyphen"/>row, and another the next day, and ſo on, the de<g ref="char:EOLhyphen"/>ſigns
+<pb n="15" facs="tcp:63327:10"/> of doing good begin to wear out of his mind, and all thoſe thoughts periſh; and if by accident they are again reviv'd the next good Opportunity, they have ſtill the ſame fate to dye abortive, for want of being preſently complied with, and exerted into good Acts. So that he who intends to follow Saint <hi>Paul</hi>'s Advice of doing good whilſt he has opportu<g ref="char:EOLhyphen"/>nity, muſt by all means reſolve, to attend to the mo<g ref="char:EOLhyphen"/>tions of his heart, and to take himſelf, as it were, in the good humour.</p>
+            <p>
+               <hi>Thirdly,</hi> There is alſo an Opportunity of Power, to be complied withal, and without which the Others ſig<g ref="char:EOLhyphen"/>nify but little; for Men may have both <hi>Time</hi> and <hi>Will</hi> to do good, that have not the Opportunity of <hi>Power.</hi> And indeed it is often ſeen, that when men have Time and Power, they want the Will; and when they have Will and Time, they want the Power: if there<g ref="char:EOLhyphen"/>fore they would be ſecure, they muſt do it when they are able. Not that any one ſhall be blam'd or puniſh'd for not doing good, when he has no power of doing it, but for omitting it, whilſt he had the power; for not doing it before he was diſabled. And the reaſonable<g ref="char:EOLhyphen"/>neſs of complying with the Exhortation in the Text, whilſt we have power, depends eſpecially on the un<g ref="char:EOLhyphen"/>certainty of humane Affairs, and the inſtability of all Conditions. If a man will patronize the Innocent, protect the Weak, defend the Poor and Fatherleſs, and ſee that ſuch as are in need and neceſſity have right; if he will correct the Diſſolute, reſtrain the Oppreſſor, and proſecute the wicked and malicious Perſecutors of the injur'd Poor, he muſt do it whilſt he is a Judge and Magiſtrate, and has the power and opportunity in his hands, for elſe his Pity comes too late, when his Power is gone: and his love of Juſtice, and deſigns of
+<pb n="16" facs="tcp:63327:11"/> doing it, end in imperfect wiſhes. And ſo it is in the deſigns of Charity of all ſorts; They muſt be brought to effects, they muſt be accompliſh'd while we have abilities; for many are the ways, and ſudden are the accidents, that diſable men from doing good. As eve<g ref="char:EOLhyphen"/>ry Element contributes to the enriching, ſo it does to the impoveriſhing of People; and every little thing that makes for, does alſo ſometimes make againſt a Man; and it is hardly poſſible for an Accident that is exceeding favourable to one, but it muſt alſo have an ill aſpect on another, or that one Kingdom ſhould flouriſh mightily without ſome others decaying. So that the uncertain<g ref="char:EOLhyphen"/>ty of mens continuing in a proſperous ſtate, ſhould be an argument to haſten them on to doing good, whilſt it continues, and not as it is commonly made, a pre<g ref="char:EOLhyphen"/>tence for withholding Charity; Men make it an excuſe for doing none at all. They ſee ſo many ſad Accidents, ſo many Families reduced to beggery and want, ſo ma<g ref="char:EOLhyphen"/>ny Storms and Tempeſts on the Seas, ſo many Inunda<g ref="char:EOLhyphen"/>tions and Fires at Land, that though they are at preſent enabled to do good, yet they can't tell how long it will be ſo with them, and therefore they forbear. Whereas for this very reaſon, they ſhould do what good they could immediately. Their Eſtates, they ſay, are ex<g ref="char:EOLhyphen"/>pos'd to a great many ſad Chances; Yes, they are, therefore, ſay I, ſecure ſome part of them from all Chance; ſecure them in the bowels of the Poor; ſecure them with the bleſſing of God; Put them into his Pro<g ref="char:EOLhyphen"/>tection, and then they will be ſafe: make Him your Bondſman, and he will be reſponſible. Had you ra<g ref="char:EOLhyphen"/>ther truſt the Seas with all you have, than God with a very little part? Is it ſafer in a Board two inches thick, within a yard or two of the devouring Sea, and expos'd to the fury of a Storm, than under the protection of the
+<pb n="17" facs="tcp:63327:11"/> Almighty? Is it ſafer, think you, where it may be<g ref="char:EOLhyphen"/>come a prey to Fire and Thieves, than where no Acci<g ref="char:EOLhyphen"/>dents or Men can reach it? But what if Peoples Fears ſhould come to paſs? what if all they had ſhould indeed be conſumed by Fire, or taken away by Villains? Would the loſs be greater, for having given away ſome portion of it to the Poor? Would it not rather comfort one, to think that ſome was ſaved, and ſaved ſo very well? But what lamentable Excuſes muſt a man be forced to make on theſe accounts? I would do no good when I could, becauſe I was afraid I might, by chance, be diſabled from doing it. Why, what's the difference betwixt chuſing to be diſabled, and being made unable by accident? but that one is <hi>a fault,</hi> and the other <hi>a misfortune,</hi> and you choſe the fault, and are fallen into the misfortune? I would do no good when I could, be<g ref="char:EOLhyphen"/>cauſe I was afraid; of what? that I might come to want my ſelf. Then put theſe things together. <hi>I was afraid of relieving others wants, leſt I ſhould come to be reliev'd my ſelf.</hi> Well, but now you are become an Object of Charity, by ſome of the Accidents you ſo much dreaded, and who ſhall help you? Who ſhall af<g ref="char:EOLhyphen"/>ford you that relief that you denied to others, for very fear you ſhould be forc'd to ask your ſelf? Don't you perceive that the Judgment of God hath overtaken you in this matter, and that you are caught in your own Snare, and that the very fear of falling into miſery your ſelf, ſhould have made you charitable to another, which yet you made the reaſon why you were not ſo? I refus'd to do good, when I was able, but now I would, and cannot: this is the beſt that can be ſaid by you; but how are you aſſur'd of this, that you would, if you could, do good? You remember the time when you could, and would not; and you remember the rea<g ref="char:EOLhyphen"/>ſon
+<pb n="18" facs="tcp:63327:12"/> which hindred you, <hi>i. e.</hi> the uncertainty of mens Conditions, and the inſtability of Humane Things; and ſince that reaſon is not like to mend upon your hands, why ſhould you think your mind would not be the ſame again, in the ſame condition? And therefore he that refuſes to do good, becauſe he is afraid of evil times, and ſad miſchances, is a miſerable Man, whe<g ref="char:EOLhyphen"/>ther thoſe times and chances overtake him or not. If they do not, he is a miſerable man, that does no good when he is able: and if they do overtake him, then he is miſerable with a witneſs; firſt, in being depriv'd of what he lov'd ſo dearly; ſecondly, in the ſad remem<g ref="char:EOLhyphen"/>brance, that whilſt he had his Riches, they were uſe<g ref="char:EOLhyphen"/>leſs to him, and he did no manner of good with them. Whereas, on the contrary, If the Charitable man, by God's permiſſion, fall into misfortune; if he, that has in his time been good to thoſe that wanted, come by ſad miſchance to want himſelf, he does not only find mankind ready to pity and relieve him, but he has the greateſt eaſe and ſatisfaction in the World about him, in his mind: He remembers that whilſt he was Poſſeſſor of his Wealth, he did what good with it he could, and that the Needy ſhar'd with him. He can rejoyce with <hi>Job</hi> in his Affliction, <hi>Job 29. 12. Becauſe I delivered the poor that cried, and the Fatherleſs, and him that had none to help him; the bleſſing of him that was ready to periſh came upon me, and I cauſed the widows heart to ſing for joy.</hi> It intitles him to the hopes of receiving benefit from others; it makes his State not half ſo troubleſome, in freeing him from the remembrance that would plague him, if he had neglected doing good whilſt he had Op<g ref="char:EOLhyphen"/>portunity; But now being well ſecur'd of that, he is able to ſay with comfort, Whilſt I had it, I us'd it as I ſhould; and now 'tis gone, no more will be expe<g ref="char:EOLhyphen"/>cted;
+<pb n="19" facs="tcp:63327:12"/> 
+               <hi>The Lord gave, and the Lord hath taken away, bleſſed be the name of the Lord.</hi> Theſe are the ſenſes in which this Phraſe, <hi>Whilſt we have opportunity,</hi> is to be underſtood: We muſt do good, whilſt we have time, when we have will, and whilſt we are able: Before God cuts us off by death, whilſt our Inclinations are bent that way, and for fear we fall into misfortune, and become unable.</p>
+            <p>
+               <hi>Laſtly,</hi> To the encouraging us to the doing all the<note place="margin">IV.</note> good we can, we have the reward we are to ſet conti<g ref="char:EOLhyphen"/>nually before our eyes, implied in the word <hi>therefore. Let us not be weary of well-doing, for in due ſeaſon we ſhall reap, if we faint not:</hi> Therefore <hi>whilſt we have opportu<g ref="char:EOLhyphen"/>nity, let us do good to all men.</hi> The practice here ex<g ref="char:EOLhyphen"/>horted to, is Pleaſant, Profitable and Neceſſary: the Time we have to do it in, is very ſhort, the Will in<g ref="char:EOLhyphen"/>conſtant, and the Opportunities not many. 'Tis a thing we like exceedingly whilſt doing, and as well when done; We ſhall all of us wiſh one day, we had attended to this matter; and they that have done moſt, will wiſh they had done yet more; and they who have done little or none, will wiſh they had done nothing elſe. It is that which makes us think on the time paſt with eaſe and comfort, and on the life to come with hope and pleaſure. The Day of Trouble, and the Day of Death, are the two proper times to try the uſe and excellence of things, and friendſhips in, and in both theſe times there is nothing ſtands a Man in more and better ſtead, than the remembrance of his Charitable Acts. The Soul is then exceeding buſie, and looking out continually for what may give it eaſe and quiet; and finding all external Succours fail, turns and deſcends into it ſelf, and there revolves the Actions of the life paſt, to find what has been done that
+<pb n="20" facs="tcp:63327:13"/> it can faſten on, and can abide by: what it can feed up<g ref="char:EOLhyphen"/>on at preſent with content, and what afford a comforta<g ref="char:EOLhyphen"/>ble proſpect for the future. The Splendors of the life paſt, the pompous gay Appearances the Man hath made, the mighty Friendſhips and Dependencies con<g ref="char:EOLhyphen"/>tracted, the honourable Viſits given, and had; the great Entertainments, the numerous Train of Servants and Attendants, with all that goes along with, and that follows a magnificent Luxurious Fortune, do then afford but little ſatisfaction to the mind, upon Refle<g ref="char:EOLhyphen"/>ction: It rather wiſhes that thoſe things had never paſt: There is fear at leaſt, and ſome ſuſpicion, due to the menagery of that life; it was a ſtate of danger, lia<g ref="char:EOLhyphen"/>ble to the diſorders of exceſs and wantonneſs, and to a great deal of folly and vanity at the beſt; And if it ſca<g ref="char:EOLhyphen"/>ped theſe Evils, yet 'tis gone, and a man is never the better for all that's paſt. Even the neceſſary Provi<g ref="char:EOLhyphen"/>ſions made for Children, Wife and Family, do but barely content the mind at preſent, and free it from the perplexity that would ariſe from the thoughts of leaving thoſe it lov'd, in want: but the recollecting this, creates no new or extraordinary complacence in the mind: theſe are not the things it cares to dwell on long, or feeds upon with pleaſure. But the remem<g ref="char:EOLhyphen"/>brance of its Acts of Charity is <hi>that</hi> it lives upon, <hi>that</hi> it perpetually rolls about, and <hi>that</hi> it turns to every moment. The Tables that have been ſpread for the Poor, the Portions that have been ſent out to the hun<g ref="char:EOLhyphen"/>gry, the Drink that has reliev'd the miſerable thirſty, the Cloaths that have been made for, and beſtowed upon the Naked; the Counſel, Viſits, and the helps that have ſupported thoſe in Priſon, theſe things are fed on with delight, theſe fill the heart with pleaſure and contentment, theſe cool the ragings of the Fever, and
+<pb n="21" facs="tcp:63327:13"/> ſupport the weakneſs of Conſumptions, and abate the pains of our acute Diſeaſes, and make mens Beds in all their Sickneſſes. So that there is no one thing beſides, that is ſo much its own reward in this life, that begets a man more good will, that makes more Friends, that creates a greater eſteem, that fits men for the aſſiſtance both of Strangers and the Neighbourhood, that ſtirs and provokes the Prayers of all that want, and all that ſee and hear of it, and pulls down Bleſſings from the Throne of Grace, than this kind, benign diſpoſition of doing good to the Poor; nothing that is ſo faithful an Aſſiſtant in the days of Sorrow, and of Sickneſs, and the hour of Death, as the doing Acts of Charity, and the ſhewing mercy to the Needy. The very pleaſure and the profit of doing good, are of themſelves an ar<g ref="char:EOLhyphen"/>gument of mighty force, to draw men to the doing it; but when we have the Promiſes of God, the Hopes of Heaven and everlaſting Happineſs, propos'd for our encouragement, what is there that can ſway againſt theſe powerful Motives?</p>
+            <p>I have now done with the Text, and have ſhewed the reaſonableneſs and the neceſſity, together with the bene<g ref="char:EOLhyphen"/>fits of complying with its Exhortation. It remains that I ſet before you an Example too, and then conclude.</p>
+            <p>I am perſuaded, Gentlemen, that the memory of <hi>This Lady,</hi> upon whoſe account we now meet, is much more dear and precious in your mind; and that I do her greater Honours, when I tell of her good Works of Charity that ſhe hath done, than if I could, without thoſe Works, recount abundance of her other Quali<g ref="char:EOLhyphen"/>lities, and Titles. It would be, methinks, but a very poor thing for me to be able to tell you, that ſhe was deſcended of Great Anceſtours, and married very honou<g ref="char:EOLhyphen"/>rably, and had a great many lovely Children, and kept a
+<pb n="22" facs="tcp:63327:14"/> mighty ſumptuous Table, made moſt magnificent En<g ref="char:EOLhyphen"/>tertainments, and wore a world of fine Jewels, and went in the richeſt Habits of her time, kept I don't know how many Coaches, and Liveries without num<g ref="char:EOLhyphen"/>ber. I am ignorant of all, and any of theſe Particulars; but were they all true, I ſhould be nothing forward to recount them: I ſhould think I dealt more kindly by her Memory, and better anſwered her Intentions in our meeting here, to ſay ſhe left a <hi>Shilling</hi> to the Poor, nay but a <hi>Penny</hi> to relieve ſome hungry Creature. But greater was her Charity, and greater be her Praiſes. I am to read</p>
+            <p>
+               <hi>A</hi> (Long and Glorious) <hi>Catalogue of the Charitable Gifts of the Lady</hi> Mary Ramſey, <hi>which are Yearly Paid by the Governors of</hi> Chriſt's Hoſpital, <hi>out of Means which ſhe beſtowed upon it,</hi> for theſe Godly Uſes.</p>
+            <p>I ſhall not ſo much as ask of you the patience of hear<g ref="char:EOLhyphen"/>ing it. It would affront your Goodneſs and Religion to miſtruſt it.</p>
+            <p>
+               <table>
+                  <head>Thus it begins:</head>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To the Maſter of <hi>Peter-Houſe</hi> in <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> towards the Maintenance of Two Fellows, and Four Scholars, <hi>yearly,</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Towards the Maintenance of Twelve Scholars, Six in <hi>Cambridge,</hi> and Six in <hi>Oxford,</hi> yearly</cell>
+                     <cell>40</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Theſe two Particulars may look, perhaps, to ſome, rather like Works of <hi>Munificence</hi> than <hi>Charity:</hi> If it were ſo, they are full as uſeful, and full as neceſſary as the other: But indeed they are works of great Charity, greater than you can eaſily at the firſt perceive. There's many a very hopeful man loſt, for want of better Maintenance at the Univerſities; for want of means to
+<pb n="23" facs="tcp:63327:14"/> ſubſiſt there longer than their poor allowances will let them; for want of Books, and other neceſſary Encou<g ref="char:EOLhyphen"/>ragements of Study; without which, the Mind is crampt, and forced into a narrow and illiberal way of Thinking; and all that generous, ſprightly Vigor of Soul, which might have form'd and compaſs'd Noble Purpoſes, ſinks into little trifling aims of getting Food and Raiment, and juſt living. And had there been but more ſuch Benefactors to thoſe Places, like this Lady, I may venture to ſay, a great many Churches, at a diſtance, would be better ſerv'd, and many who are now objects of pity, and reproach, might have be<g ref="char:EOLhyphen"/>come the Ornaments and Honours of the Nation.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Towards the maintenance of a Free <hi>Gram<g ref="char:EOLhyphen"/>mar School,</hi> at <hi>Halſtead</hi> in <hi>Eſſex,</hi> be<g ref="char:EOLhyphen"/>ſides Repairs; <hi>Yearly,</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Towards the Maintenance of a Free <hi>Wri<g ref="char:EOLhyphen"/>ting School</hi> in <hi>Chriſt's Hoſpital; Yearly,</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Benefits of Education are too great to be quite forgotten here, and too well known to be inſiſted long upon. Nature brings forth the <hi>Creature,</hi> but Educati<g ref="char:EOLhyphen"/>on makes the <hi>Man:</hi> We are born <hi>Reaſonable,</hi> but whe<g ref="char:EOLhyphen"/>ther we ſhall reaſon <hi>well</hi> or <hi>ill,</hi> depends upon our bring<g ref="char:EOLhyphen"/>ing up, and upon that the whole felicity of our life. It is not to be expected, that whilſt we are Children, we ſhould love theſe advantageous Gifts, and praiſe their good Deſigners and Beſtowers; but 'twould be very hard, ungrateful, and unkind, if when we are men, and feel the Benefits, we ſhould be backward to recount theſe Works with Praiſe and Honour.—</p>
+            <pb n="24" facs="tcp:63327:15"/>
+            <p>This is truly, and moſt properly to be, with <hi>Job, eyes to the blind, and feet to the lame.</hi> What can be nobler? What more juſt? Than that they who have hazarded their Lives and Limbs for the Safety and the Honour of their Countrey, and brought a mangled Body home, the ruins of a man, ſhould find ſome Place of Com<g ref="char:EOLhyphen"/>fort to retire to, to aſſwage the ſmarting of their feſter<g ref="char:EOLhyphen"/>ing Wounds, and have or Wine, or Oyl, or Balm pour<g ref="char:EOLhyphen"/>ed on them by ſome good <hi>Samaritan?</hi> She is this good <hi>Samaritan,</hi> that hath compaſſion on theſe ſtript and wounded Creatures; that brings them to this Inn, and here takes care of them. I ſay, with our Saviour, to you every one, <hi>Go and do thou likewiſe.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Towards the Relief of the Poor Priſoners in <hi>Newgate, Ludgate, Woodſtreet,</hi> and the <hi>Poultrey Counters;</hi> Yearly,</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Whatever People now-a-days may think of this Piece of Charity, as needleſs, or as ill beſtowed, yet <hi>when the Son of man ſhall come in his glory, and all the holy Angels with him, and ſhall ſit upon his Throne, and before him all nations ſhall be gathered;</hi> then they ſhall change their mind, but change it to no purpoſe. <hi>Then ſhall the King ſay to them on his right hand, Come ye bleſſed of my Father, inherit the kingdom prepared for you, from the foundation of the world: for I was an hungry, and ye gave me meat; I was thirſty, and ye gave me drink; naked, and ye clothed me; I was ſick, and ye viſited me.</hi> Priſoners, alas! have all theſe needs, and in a very great degree, and therefore are included certainly, but not included only, but particularly mentioned; <hi>I was in priſon, and ye came unto me:</hi> Where by <hi>coming,</hi> muſt be meant coming to purpoſe, coming to cheer the afflicted, com<g ref="char:EOLhyphen"/>fort the diſtreſs'd, raiſe the diſconſolate, by good ad<g ref="char:EOLhyphen"/>vice, and friendly admonition; but certainly <hi>coming to
+<pb n="25" facs="tcp:63327:15"/> relieve them</hi> in their ſeveral neceſſities, as is plain from the reaſon of the thing it ſelf, as alſo from the Duties and good Offices 'tis join'd with. To thoſe who think theſe offices of viſiting, and comforting, and helping Priſoners, ill beſtowed, and time ill ſpent, I leave the reading of the reſt of that Chapter, <hi>Mat.</hi> 25. from the <hi>41ſt.</hi> to the <hi>46th verſe;</hi> where they ſhall meet with that left-hand Sentence that at laſt will overtake them.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Towards the Releaſing of Poor Men and Women out of the ſeveral Priſons in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and Borough of <hi>Southwark;</hi> Yearly,</cell>
+                     <cell>30</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This was a <hi>Wiſe,</hi> as well as <hi>Good</hi> Lady; ſhe knew this Gift was much more profitable to the Common<g ref="char:EOLhyphen"/>wealth, than the other, and therefore trebled it. When mens Misfortunes have reduced them to that lamenta<g ref="char:EOLhyphen"/>ble Place, it is great Charity to keep them there from periſhing by Cold and Hunger; but it is greater far, to get them out again, both to the Publick, and Particu<g ref="char:EOLhyphen"/>lars. The King has loſt a Subject, the Government a Hand, the Corporation, perhaps, an uſeful Member; but, to be ſure, the Family has loſt the Means of its Sub<g ref="char:EOLhyphen"/>ſiſtence; the Wife has loſt her Head, and the Children a Parent and Provider; and <hi>Five</hi> or <hi>Six</hi> perhaps are bleſt in a <hi>Releaſe,</hi> where <hi>One</hi> alone is profited by Alms in an <hi>Impriſonment.</hi> I will not doubt but ſhe had alſo a regard in this, to the Priſoner's Spiritual Concern, to the benefit of his Soul alſo; for I fear the nature and condition of thoſe Places of Confinement, were in her days too like to what they are in ours; the little Ima<g ref="char:EOLhyphen"/>ges of Hell, not only in their Chains and Darkneſs, but in thoſe dreadful Oaths and Execrations, thoſe ra<g ref="char:EOLhyphen"/>ging Blaſphemies and Prophanations of all things ſa<g ref="char:EOLhyphen"/>cred, with all the curſed train of Lewdneſſes, and hor<g ref="char:EOLhyphen"/>rid
+<pb n="26" facs="tcp:63327:16"/> Immoralities, imaginable. Oh 'tis a fearful uſe they make of their Afflictions: There's many a man, they ſay, goes in both Juſt, and Honeſt, and Religious, but unfortunate, that comes out, or abides therein, af<g ref="char:EOLhyphen"/>ter ſome time, a Fiend incarnate, a Devil in Humane ſhape, prepared for every ſort of Villany; and there<g ref="char:EOLhyphen"/>fore, even in this reſpect, it is a mighty piece of Chari<g ref="char:EOLhyphen"/>ty, to releaſe a Priſoner <hi>betimes,</hi> to lead him out of that Temptation, and deliver him from that evil.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Towards the Maintenance of Ten Poor Aged Men, and Ten Poor Widows, with their Apparel, yearly,</cell>
+                     <cell>60</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>When <hi>Tabitha,</hi> full of Good Works, and Almſdeeds, which ſhe did, was dead, and <hi>Peter</hi> was ſent for to her, the Widows ſtood by him weeping, and ſhewing him the Coats that <hi>Dorcas</hi> made, whilſt ſhe was with them. Theſe Widows were themſelves the Living Monu<g ref="char:EOLhyphen"/>ments of <hi>Dorcas</hi>'s Charity, and thought the Coats and Garments ſhe had made, and ordered to be made for them, and other poor, the moſt prevailing Argument to move the Apoſtle to Compaſſion, and the moſt ho<g ref="char:EOLhyphen"/>nourable mention they could make of their deceaſed Miſtreſs; and ſo indeed it was. It was neceſſary in thoſe days, to magnifie the Power of Chriſt in his Apo<g ref="char:EOLhyphen"/>ſtles, and to confirm the truth of his Doctrines by Mi<g ref="char:EOLhyphen"/>racles, and therefore <hi>Tabitha</hi> muſt be raiſed from the Dead. We cannot raiſe this <hi>Tabitha</hi> from the Dead: We are not the Apoſtles Succeſſors in Miracles and mighty Works, but only in the ordinary ſtanding Mi<g ref="char:EOLhyphen"/>niſtration of the Word and Sacraments: But we can tell you, She ſhall live for ever; this is the Way to Heaven, and this the Gate of Righteouſneſs, by which, through Faith in Chriſt, and by the Grace of God,
+<pb n="27" facs="tcp:63327:16"/> She made her Paſſage to Eternal Happineſs, and God ſhall raiſe Her up Glorious and Immortal, to live and Reign with him for ever. Nor ſhall Her Memory fail on Earth, you Living Monuments, Succeſſion of her Charity, ſhall raiſe her from the dead in all mens praiſes and eſteem, and you ſhall cauſe this righteous One to be had in everlaſting remembrance.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Towards the Relief of the Pariſh of <hi>Chriſt-Church,</hi> yearly,</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To the Poor of the Pariſh of Saint <hi>Peter's Poor,</hi> yearly,</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To the Poor of Saint <hi>Mary Wolnoths,</hi> yearly,</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To the Poor of Saint <hi>Andrews Under<g ref="char:EOLhyphen"/>ſhaft,</hi> yearly,</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>I hope ſome of you will think theſe are ſmall Sums, and that the neceſſities of the Poor require and call for greater; they do ſo, and when you have thank'd and prais'd God for this Lady's Gifts, then add your own, and make up what is wanting.</p>
+            <p>
+               <hi>For two Sermons to be preached, yearly,</hi> 02 00 00</p>
+            <p>It will not become me here to ſay much to this. I have already ſaid ſomething in explaining the Text, which it ſeems, the Deceaſed Lady both underſtood and practic'd.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paid more by the ſaid Governors out of the Means by her given this year, above</hi>
+                     </cell>
+                     <cell>80</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The total Sum paid yearly by the ſaid Govern.</hi>
+                     </cell>
+                     <cell>324</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>I have now done with this good Catalogue; I wiſh it would have held, at this rate, an hour longer. I have read it by deſire, and in courſe, according to the cuſtome, on <hi>this Day,</hi> on which the Church celebrates the <hi>Mar<g ref="char:EOLhyphen"/>tyrdom
+<pb n="28" facs="tcp:63327:17"/> of</hi> Stephen, whoſe ſtanding Office was the mini<g ref="char:EOLhyphen"/>ſtration of Charity, and providing for the Poor. But, I hope, you don't come here to hear it only in courſe and cuſtome. There's no body can think a Lady of ſuch goodneſs could be ſo vain, as to appoint two Sermons, purely to get a crowd of People round, to tell the Charities, and ſing the Praiſes of her. No, there was Charity deſign'd by that, but it was Charity to thoſe that ſhould be Hearers. She was in hopes that her Example would excite ſome others to the ſame good Works, for Examples are of mighty force; we ſee too much of it in bad ones, and ſurely the good may have <hi>ſome</hi> influence. She was in hopes, that ſomething might be ſaid, by chance, or by deſign, that might awaken ſome to the exerciſe of that good Grace, which all men think ſo excellent and neceſſary, and all men like ſo well in <hi>others.</hi> Don't then defeat ſuch good and reaſonable hopes; but if what I have ſaid, ſhall nothing move you, yet let her great Ex<g ref="char:EOLhyphen"/>ample ſpeak, and ſpeak to purpoſe. Order the mat<g ref="char:EOLhyphen"/>ter ſo, that this <hi>laſt Gift</hi> may be as well beſtowed as any of the reſt, according to her good Intentions, which cannot be, without your imitation of her, in ſome kind or other. Take home this Catalogue with you, and try to copy after it. You'll hardly find a wiſer. It will become your <hi>Wills</hi> and <hi>Teſtaments</hi> much better, than a great ma<g ref="char:EOLhyphen"/>ny <hi>Items</hi> that are there. You give your Souls in your <hi>In<g ref="char:EOLhyphen"/>primis,</hi> generally, to a very good place, but you take no care to provide good Works to help them thither: you beſtow your Bodies very decently, commonly, but ſome of <hi>theſe particulars</hi> would make them ſmell much ſweeter, and ſend out a more fragrant odour.</p>
+            <p>We could ſtrew much ſweeter, and much finer Flowers upon the Dead, if their Wills were better fill'd
+<pb n="29" facs="tcp:63327:17"/> than commonly they are; if they would take ſome care, to have ſomething of Religion in them more than bare words. How can the Rich and Wealthy of this World, begin their Teſtaments ſo ſolemnly, <hi>In the name of God,</hi> and never think upon him after<g ref="char:EOLhyphen"/>wards? How can a Chriſtian Man beſtow a Hundred thouſand Pounds upon his Son, upon his Nephew, or the Lord knows who, and little or nothing on the Poor? The <hi>Wife</hi> muſt be left with a mighty Joyn<g ref="char:EOLhyphen"/>ture, all her Jewels, Plate, and abundance of Ready Money, by which ſhe learns to forget him ſooner, and becomes the eaſier prey. The <hi>Daughter</hi> muſt have a prodigious Fortune, that ſhe may fall into the hands of luſtful Villains, and make it worth their while to venture upon violence, and death; or elſe be married purely for her Money, and be for ever miſerable. The <hi>Son</hi> muſt have wherewithal to reproach his Father's meanneſs and frugality, and make him aſhamed to own his Lineage and Deſcent; but enough, be ſure, to ſpoil his care and induſtry, and enough too frequently to make him dye a Beggar. And if theſe are wanting, the <hi>Nephew</hi> muſt have all, that the <hi>Parent</hi> (no, the <hi>
+                  <g ref="char:V">Ʋ</g>ncle</hi>) mayn't be ſaid to have taken all thoſe pains, and made himſelf a Slave, and miſerable, for nothing, with<g ref="char:EOLhyphen"/>out an Heir to leave it to. For what a lamentable thing would that be, to the poor man's Aſhes, if it ſhould not be ſaid by the Neighbourhood, that ſuch a one left his Nephew <hi>forty, fifty,</hi> or a <hi>hundred thouſand</hi> Pounds, al<g ref="char:EOLhyphen"/>though he neither wanted nor deſerv'd it; but <hi>nothing</hi> to the <hi>Poor,</hi> tho they did both? There muſt be Fami<g ref="char:EOLhyphen"/>lies, I know, and muſt be diſtinctions, and there muſt be proviſion made for all theſe particulars, but the Poor muſt not be ſo forgotten as they are; they muſt come in for a ſhare, or all the reſt will want its bleſſing.
+<pb n="30" facs="tcp:63327:18"/> And don't you think 'tis ſafer, and much better, to ſe<g ref="char:EOLhyphen"/>cure the main, by beſtowing a little well? Believe it, Gentlemen, you are not ſo much Maſters, and abſolute Lords of your Eſtates and Wealth, as Stewards of God's Houſhold: <hi>Now Stewards muſt be found faithful,</hi> as St. <hi>Paul</hi> ſays, and muſt diſpenſe theſe Goods according to their Maſter's will which he hath oft expreſs'd, ſhall be, in part, among his poor and needy Servants, and then I leave the Application to your ſelves.</p>
+            <p>Remember (to conclude) That our doing Acts of Charity, is neceſſary; remember that the time of doing them is ſhort, but the Reward of them when done, eternal. We cannot ſow long, but we ſhall reap the fruits of it for ever; we cannot always do good Acts of Charity, but we ſhall always be receiving everla<g ref="char:EOLhyphen"/>ſting Recompences. For the beſtowing of a little fa<g ref="char:EOLhyphen"/>ding Riches here, we ſhall lay up Riches in abundance, for the time to come; we ſhall exchange the Treaſures that are here ſubject to a thouſand chances, for thoſe in Heaven, ſecure in God's hand; for the want of a little convenience, or ſome ſuperfluities of life, we ſhall be ſatisfied with more than we can ask or think of. I will end all with the Charge of St. <hi>Paul</hi> to <hi>Timothy,</hi> 1. 6. 17.—and in <hi>Timothy</hi> to Me, and all the Miniſters of God's Word,—<hi>Charge them,</hi>—and in obedience to that Saint's Command,—I do <hi>charge them that are</hi>
+               <note place="margin">1 Cor. 4. 2.</note> 
+               <hi>rich in this world, that they be ready to give, and glad to di<g ref="char:EOLhyphen"/>ſtribute, laying up in ſtore for themſelves</hi> (ſure you like that) <hi>a good foundation, againſt the time to come, that they may attain eternal life.</hi> Which God of his Infinite Mercy bring us all to, for Chriſt his ſake, who for our ſakes became poor, that we through him might be made Rich. To whom, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63327:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
